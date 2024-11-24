@@ -1,6 +1,8 @@
 {
   "item.firstmod.ruby": "Ruby",
   "item.firstmod.raw_ruby": "Raw Ruby",
+  "block.firstmod.ruby_block": "Block of Ruby",
+  "block.firstmod.raw_ruby_block": "Block of Raw Ruby",
 
   "itemgroup.ruby": "Ruby group"
 }

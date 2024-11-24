@@ -1,5 +1,6 @@
 package com.g.firstmod;
 
+import com.g.firstmod.block.ModBlocks;
 import com.g.firstmod.item.ModItemGroups;
 import com.g.firstmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
@@ -15,6 +16,7 @@ public class FirstMod implements ModInitializer {
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 
 	}
 }
