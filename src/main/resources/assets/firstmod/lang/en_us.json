@@ -14,6 +14,17 @@
   "block.firstmod.end_stone_ruby_ore": "End Stone Ruby Ore",
   "block.firstmod.sound_block": "Sound Block",
 
+  "block.firstmod.ruby_stairs": "Ruby Stairs",
+  "block.firstmod.ruby_slab": "Ruby Slabs",
+  "block.firstmod.ruby_button": "Ruby Button",
+  "block.firstmod.ruby_pressure_plate": "Ruby Pressure Plate",
+  "block.firstmod.ruby_fence": "Ruby Fence",
+  "block.firstmod.ruby_fence_gate": "Ruby Fence Gate",
+  "block.firstmod.ruby_wall": "Ruby Wall",
+  "block.firstmod.ruby_door": "Ruby Door",
+  "block.firstmod.ruby_trapdoor": "Ruby Trapdoor",
+
+
   "tooltip.firstmod.metal_detector.tooltip": "Finds Valuables Underground",
 
   "itemgroup.ruby": "Ruby group"

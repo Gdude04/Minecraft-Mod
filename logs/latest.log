@@ -1,5 +1,5 @@
-[12:26:34] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.20.1 with Fabric Loader 0.16.9
-[12:26:35] [main/INFO] (FabricLoader) Loading 46 mods:
+[15:25:03] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.20.1 with Fabric Loader 0.16.9
+[15:25:04] [main/INFO] (FabricLoader) Loading 46 mods:
 	- fabric-api 0.92.2+1.20.1
 	- fabric-api-base 0.4.31+1802ada577
 	- fabric-api-lookup-api-v1 1.6.36+1802ada577
@@ -46,24 +46,23 @@
 	- java 21
 	- minecraft 1.20.1
 	- mixinextras 0.4.1
-[12:26:35] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/garvi/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/6a12aacc794f1078458433116e9ed42c1cc98096/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[12:26:36] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[12:26:36] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_16
-[12:26:36] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
-[12:26:38] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[12:27:00] [main/INFO] (firstmod) Registering Item Groups for firstmod
-[12:27:00] [main/INFO] (firstmod) Registering Mod Items for firstmod
-[12:27:00] [main/INFO] (firstmod) Registering ModBlocks for firstmod
-[12:27:00] [main/INFO] (FabricDataGenHelper) Running data generator for firstmod
-[12:27:01] [main/INFO] (Minecraft) Starting provider: FirstMod/Tags for minecraft:block
-[12:27:02] [main/INFO] (Minecraft) FirstMod/Tags for minecraft:block finished after 663 ms
-[12:27:02] [main/INFO] (Minecraft) Starting provider: FirstMod/Tags for minecraft:item
-[12:27:02] [main/INFO] (Minecraft) FirstMod/Tags for minecraft:item finished after 0 ms
-[12:27:02] [main/INFO] (Minecraft) Starting provider: FirstMod/Block Loot Tables
-[12:27:02] [main/INFO] (Minecraft) FirstMod/Block Loot Tables finished after 162 ms
-[12:27:02] [main/INFO] (Minecraft) Starting provider: FirstMod/Model Definitions
-[12:27:02] [main/INFO] (Minecraft) FirstMod/Model Definitions finished after 185 ms
-[12:27:02] [main/INFO] (Minecraft) Starting provider: FirstMod/Recipes
-[12:27:02] [main/INFO] (Minecraft) FirstMod/Recipes finished after 69 ms
-[12:27:02] [main/INFO] (Minecraft) All providers took: 1088 ms
-[12:27:02] [main/INFO] (Minecraft) Caching: total files: 65, old count: 65, new count: 66, removed stale: 0, written: 1
+[15:25:04] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/garvi/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/6a12aacc794f1078458433116e9ed42c1cc98096/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[15:25:05] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[15:25:05] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
+[15:25:08] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15:25:37] [main/INFO] (firstmod) Registering Item Groups for firstmod
+[15:25:37] [main/INFO] (firstmod) Registering Mod Items for firstmod
+[15:25:37] [main/INFO] (firstmod) Registering ModBlocks for firstmod
+[15:25:38] [main/INFO] (FabricDataGenHelper) Running data generator for firstmod
+[15:25:38] [main/INFO] (Minecraft) Starting provider: FirstMod/Tags for minecraft:block
+[15:25:39] [main/INFO] (Minecraft) FirstMod/Tags for minecraft:block finished after 893 ms
+[15:25:39] [main/INFO] (Minecraft) Starting provider: FirstMod/Tags for minecraft:item
+[15:25:39] [main/INFO] (Minecraft) FirstMod/Tags for minecraft:item finished after 0 ms
+[15:25:39] [main/INFO] (Minecraft) Starting provider: FirstMod/Block Loot Tables
+[15:25:39] [main/INFO] (Minecraft) FirstMod/Block Loot Tables finished after 248 ms
+[15:25:39] [main/INFO] (Minecraft) Starting provider: FirstMod/Model Definitions
+[15:25:40] [main/INFO] (Minecraft) FirstMod/Model Definitions finished after 411 ms
+[15:25:40] [main/INFO] (Minecraft) Starting provider: FirstMod/Recipes
+[15:25:40] [main/INFO] (Minecraft) FirstMod/Recipes finished after 86 ms
+[15:25:40] [main/INFO] (Minecraft) All providers took: 1656 ms
+[15:25:40] [main/INFO] (Minecraft) Caching: total files: 127, old count: 65, new count: 128, removed stale: 0, written: 62

@@ -1,7 +1,10 @@
-// 1.20.1	2024-11-26T12:27:02.5031952	FirstMod/Tags for minecraft:block
+// 1.20.1	2024-11-26T15:25:40.3002029	FirstMod/Tags for minecraft:block
+88413d62858444b72030cebced723a42c0a87c26 data\minecraft\tags\blocks\fences.json
+16dab6eed05521e6be6e17158ce2fbe9e7ee5559 data\minecraft\tags\blocks\walls.json
 524173b21599b73d08e7e0977b6c5495c7871299 data\minecraft\tags\blocks\needs_stone_tool.json
 923b56d69b5a201778382dab7efd6b8dba670918 data\minecraft\tags\blocks\needs_iron_tool.json
 ebcd02ef1c99673ae7153050c81cf902a0c51356 data\minecraft\tags\blocks\needs_diamond_tool.json
 f5e8916eb0958436d898a7d86fe08bbaa5b2bf22 data\fabric\tags\blocks\needs_level_4.json
 1f27743721a6470b1e40ecc47c2186db9848fa88 data\minecraft\tags\blocks\mineable\pickaxe.json
 c2e86ea196884ce7010baee402e11edc763985f1 data\firstmod\tags\blocks\metal_detector_detectable_blocks.json
+6a6ada2786cf4d8a56a0481e9965513396672a61 data\minecraft\tags\blocks\fence_gates.json
