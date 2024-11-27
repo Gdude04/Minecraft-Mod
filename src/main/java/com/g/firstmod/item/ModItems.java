@@ -23,16 +23,24 @@ public class ModItems {
             new Item(new FabricItemSettings().maxCount(1)));
 
     public static final Item RUBY_PICKAXE = registerItem("ruby_pickaxe",
-            new PickaxeItem(ModToolMaterial.RUBY,2,2f, new  FabricItemSettings()));
+            new PickaxeItem(ModToolMaterial.RUBY,1,2f, new  FabricItemSettings()));
     public static final Item RUBY_AXE = registerItem("ruby_axe",
-            new AxeItem(ModToolMaterial.RUBY,7,2f, new  FabricItemSettings()));
+            new AxeItem(ModToolMaterial.RUBY,8,2f, new  FabricItemSettings()));
     public static final Item RUBY_SHOVEL = registerItem("ruby_shovel",
-            new ShovelItem(ModToolMaterial.RUBY,3,1f, new  FabricItemSettings()));
+            new ShovelItem(ModToolMaterial.RUBY,2,1f, new  FabricItemSettings()));
     public static final Item RUBY_SWORD = registerItem("ruby_sword",
-            new SwordItem(ModToolMaterial.RUBY,6,3f, new  FabricItemSettings()));
+            new SwordItem(ModToolMaterial.RUBY,7,4f, new  FabricItemSettings()));
     public static final Item RUBY_HOE = registerItem("ruby_hoe",
             new HoeItem(ModToolMaterial.RUBY,0,0f, new  FabricItemSettings()));
 
+    public static final Item RUBY_HELMET = registerItem("ruby_helmet",
+            new ArmorItem(ModArmorMaterials.RUBY, ArmorItem.Type.HELMET, new  FabricItemSettings()));
+    public static final Item RUBY_CHESTPLATE = registerItem("ruby_chestplate",
+            new ArmorItem(ModArmorMaterials.RUBY, ArmorItem.Type.CHESTPLATE, new  FabricItemSettings()));
+    public static final Item RUBY_LEGGINGS = registerItem("ruby_leggings",
+            new ArmorItem(ModArmorMaterials.RUBY, ArmorItem.Type.LEGGINGS, new  FabricItemSettings()));
+    public static final Item RUBY_BOOTS = registerItem("ruby_boots",
+            new ArmorItem(ModArmorMaterials.RUBY, ArmorItem.Type.BOOTS, new  FabricItemSettings()));
 
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries){
         entries.add(RUBY);
