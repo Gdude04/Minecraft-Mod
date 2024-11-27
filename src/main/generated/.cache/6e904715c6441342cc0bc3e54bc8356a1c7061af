@@ -1,4 +1,4 @@
-// 1.20.1	2024-11-26T15:25:40.3021997	FirstMod/Model Definitions
+// 1.20.1	2024-11-26T20:16:25.6537097	FirstMod/Model Definitions
 fd4cfc6fa77dd86357e7952844a6b7941bbc0a0b assets\firstmod\models\block\ruby_wall_side_tall.json
 f2b11da06899bac1f5c38ef1bac841b1dd145859 assets\firstmod\models\block\ruby_door_top_right.json
 6e88c705ffd431402dca8983e3c258767be004a3 assets\firstmod\models\block\ruby_fence_inventory.json
@@ -15,6 +15,7 @@ f65a86c9496c54eab0fd02f113277a70475122b8 assets\firstmod\models\block\ruby_stair
 7497c272a10116a11dfda51f15156d0a7bb69e27 assets\firstmod\models\item\deepslate_ruby_ore.json
 6978278a0e320317d3b054d33047e6679dbe82da assets\firstmod\models\item\ruby_trapdoor.json
 16740e1514ffcf094fa6bb8422865f24225e1e79 assets\firstmod\blockstates\raw_ruby_block.json
+679cc5d41907709876be2ad54bf301d46e83a246 assets\firstmod\models\item\ruby_axe.json
 942f6f52de1c0fd25b2ff61103612cc44ea99bf3 assets\firstmod\models\item\ruby_fence_gate.json
 f48546a477f874b0bfec57c90f9f8ddd967602a8 assets\firstmod\models\block\ruby_trapdoor_open.json
 ca771f6d7da3edceac8ddcb97f8fae33a0555a8d assets\firstmod\blockstates\ruby_ore.json
@@ -22,8 +23,8 @@ ca771f6d7da3edceac8ddcb97f8fae33a0555a8d assets\firstmod\blockstates\ruby_ore.js
 d2b9db129c29995a512f5d2155787aac33083877 assets\firstmod\models\item\ruby_door.json
 8c620b5d6e7d41e6ac8b0ce3b188f984c0d34d5c assets\firstmod\models\item\ruby_ore.json
 820cba986b0ea64591b6b0032464dddf1427a074 assets\firstmod\models\block\sound_block.json
-66681315aefe235c956f5df745d0d6a04362afa8 assets\firstmod\models\item\sound_block.json
 92f2a0b9263ad429c6e5fc7340fb6216605901d9 assets\firstmod\models\block\ruby_button_inventory.json
+66681315aefe235c956f5df745d0d6a04362afa8 assets\firstmod\models\item\sound_block.json
 2b39f2c3e3322a6bc7caee9eea8ee865d3978f8d assets\firstmod\models\item\ruby_slab.json
 ff5efcc93390aa6cac25d0e49130f4e39fb607a6 assets\firstmod\blockstates\end_stone_ruby_ore.json
 1f0417f8430ed77d60e04bd395c67814f92e99a3 assets\firstmod\models\block\ruby_trapdoor_bottom.json
@@ -35,6 +36,7 @@ d50ab25a9cfbb804fe0aa1fa32d64ac1d48dd485 assets\firstmod\models\item\tomato.json
 727e7785eb1c354fcfb71e6dcf43918a49c58628 assets\firstmod\models\block\ruby_button.json
 c3416562ee3bd0f2d1aca1b2e04a27e5a9384706 assets\firstmod\models\item\ruby_button.json
 13f856455c9786b299ef48c0ff747176687089ce assets\firstmod\models\block\ruby_stairs_inner.json
+65d3480ad24aedf11b7376e654375e282230908e assets\firstmod\models\item\ruby_pickaxe.json
 9b9f2a72e0a3530e25108f05fe8c3a1a7a0852be assets\firstmod\models\block\ruby_wall_side.json
 b75485d43cd989d5c5ad160e8c2a780c96dbd30a assets\firstmod\models\item\ruby.json
 62ad79b5c9d1b3717b033e2b74c4d8a42ac7ce7f assets\firstmod\models\block\ruby_fence_gate_open.json
@@ -44,6 +46,7 @@ d3b7599162225c4d35023bbd62e07b421f6ff410 assets\firstmod\blockstates\ruby_fence_
 8819a470fb63c8051d8ee4a70934b623a7091e50 assets\firstmod\models\block\ruby_door_bottom_left_open.json
 8bc0de3a74684e63fdbb97ca8436ef6199ce4b01 assets\firstmod\blockstates\sound_block.json
 fd1eb454e1f12c02a33dc7ce0ecf5c9eb4296e50 assets\firstmod\models\block\ruby_trapdoor_top.json
+3a8a58eae9f23ec6a489db4fa6ae63757131f1be assets\firstmod\models\item\ruby_shovel.json
 25166135f8bd08084875fb08619726db83ebf9f3 assets\firstmod\models\block\ruby_fence_gate_wall.json
 1ad616a3b4ec94008948aad9663324515854c70d assets\firstmod\models\block\ruby_door_top_left_open.json
 b37627d0ee1d5913712ba42cc6de54861ea003fe assets\firstmod\models\block\ruby_fence_gate.json
@@ -54,6 +57,7 @@ b37627d0ee1d5913712ba42cc6de54861ea003fe assets\firstmod\models\block\ruby_fence
 63627fd25ed99d5c738e07d3070e22eadc80ae48 assets\firstmod\models\item\raw_ruby.json
 3fb7f332a1423db57830d0fa1f03d2d02192330b assets\firstmod\blockstates\ruby_fence.json
 74ac5f84e88c74d598bf3829c9d2bf9b06d934fe assets\firstmod\models\item\ruby_fence.json
+50c919087339ad16c29631b71d832e67488fa40e assets\firstmod\models\item\ruby_sword.json
 a20a355f9d7710853d494e3391ced52e3fe75b32 assets\firstmod\blockstates\deepslate_ruby_ore.json
 be4caedf91c64d03e5a3fb77fac890e36ecf0c3e assets\firstmod\blockstates\ruby_block.json
 c794ea4867fbb7ce31de7a934238269c4f65c027 assets\firstmod\models\block\ruby_stairs.json
@@ -73,5 +77,6 @@ fe2923a14c2ade35ab367cfa62759156e762b151 assets\firstmod\models\item\raw_ruby_bl
 5d5adba037da53892c523bf88836a84778c242ad assets\firstmod\models\item\ruby_pressure_plate.json
 6a2a8166a5b9cd1c8f3facd04f9a8e044d7ce621 assets\firstmod\models\block\ruby_slab_top.json
 cdb5d938caf734df0b4752b3cc0692283db66dee assets\firstmod\models\block\ruby_fence_gate_wall_open.json
+e3d91a50cc09a0d0f640757849b605f399d51982 assets\firstmod\models\item\ruby_hoe.json
 ab8d2fba323418dddfbe6014f8afdea96f6ce8be assets\firstmod\models\block\ruby_door_top_left.json
 08ad71b2bd684f0d0be71c9e99c90c05302c81a4 assets\firstmod\models\item\ruby_wall.json

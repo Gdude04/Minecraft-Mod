@@ -1,9 +1,9 @@
-// 1.20.1	2024-11-26T15:25:40.2882027	FirstMod/Block Loot Tables
-f10cb6827a57500a085a34a804c1decee887b7e6 data\firstmod\loot_tables\blocks\ruby_fence_gate.json
+// 1.20.1	2024-11-26T20:16:25.6397148	FirstMod/Block Loot Tables
 86d2bfbbbfe3f5a482e407f32646e3aa6a85a664 data\firstmod\loot_tables\blocks\ruby_fence.json
+f10cb6827a57500a085a34a804c1decee887b7e6 data\firstmod\loot_tables\blocks\ruby_fence_gate.json
 87a3bb0102cbcf6d8f7b9e2f352876bc5f8ace6c data\firstmod\loot_tables\blocks\nether_ruby_ore.json
-07221743c78ff1d10e0b9cebcace8cf7cb97c012 data\firstmod\loot_tables\blocks\end_stone_ruby_ore.json
 0c15d37f982e81a9696737899b502420910454bd data\firstmod\loot_tables\blocks\ruby_slab.json
+07221743c78ff1d10e0b9cebcace8cf7cb97c012 data\firstmod\loot_tables\blocks\end_stone_ruby_ore.json
 ff0cf96bcbafce2bf468b76979dff4df4964e116 data\firstmod\loot_tables\blocks\ruby_trapdoor.json
 0bc1a25fa25ac3ee5103e95ae25048156910603f data\firstmod\loot_tables\blocks\ruby_button.json
 7d9ab2a71c7ab6121b0d41520313d5b6eefde910 data\firstmod\loot_tables\blocks\ruby_door.json

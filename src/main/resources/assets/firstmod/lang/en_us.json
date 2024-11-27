@@ -4,6 +4,15 @@
   "item.firstmod.metal_detector": "Metal Detector",
   "item.firstmod.tomato": "Tomato",
   "item.firstmod.faster_coal": "Faster Coal",
+  "item.firstmod.ruby_staff": "Ruby Staff",
+
+  "item.firstmod.ruby_pickaxe": "Ruby Pickaxe",
+  "item.firstmod.ruby_axe": "Ruby Axe",
+  "item.firstmod.ruby_shovel": "Ruby Shovel",
+  "item.firstmod.ruby_sword": "Rudy Sword",
+  "item.firstmod.ruby_hoe": "Ruby Hoe",
+
+
 
   "block.firstmod.ruby_block": "Block of Ruby",
   "block.firstmod.raw_ruby_block": "Block of Raw Ruby",
