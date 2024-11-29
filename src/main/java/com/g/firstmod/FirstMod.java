@@ -3,6 +3,7 @@ package com.g.firstmod;
 import com.g.firstmod.block.ModBlocks;
 import com.g.firstmod.item.ModItemGroups;
 import com.g.firstmod.item.ModItems;
+import com.g.firstmod.util.ModLootTableModifiers;
 import net.fabricmc.api.ModInitializer;
 
 import net.fabricmc.fabric.api.registry.FuelRegistry;
@@ -19,6 +20,8 @@ public class FirstMod implements ModInitializer {
 		ModItems.registerModItems();
 
 		ModBlocks.registerModBlocks();
+
+		ModLootTableModifiers.modifyLootTables();
 
 		FuelRegistry.INSTANCE.add(ModItems.FASTER_COAL, 3000);
 
