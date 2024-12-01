@@ -21,6 +21,8 @@ public class ModItemGroups {
                             entries.add(ModItems.TOMATO);
                             entries.add(ModItems.FASTER_COAL);
                             entries.add(ModItems.RUBY_STAFF);
+                            entries.add(ModItems.TOMATO_SEEDS);
+
 
                             entries.add(ModItems.RUBY_PICKAXE);
                             entries.add(ModItems.RUBY_AXE);
