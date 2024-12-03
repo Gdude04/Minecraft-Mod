@@ -21,9 +21,11 @@ public class ModItemGroups {
                             entries.add(ModItems.TOMATO);
                             entries.add(ModItems.FASTER_COAL);
                             entries.add(ModItems.RUBY_STAFF);
+
                             entries.add(ModItems.TOMATO_SEEDS);
                             entries.add(ModItems.CORN_SEEDS);
                             entries.add(ModItems.CORN);
+
 
 
                             entries.add(ModItems.RUBY_PICKAXE);
@@ -56,6 +58,8 @@ public class ModItemGroups {
                             entries.add(ModBlocks.RUBY_BUTTON);
                             entries.add(ModBlocks.RUBY_PRESSURE_PLATE);
                             entries.add(ModBlocks.RUBY_WALL);
+
+                            entries.add(ModBlocks.DAHLIA);
 
 
                          }).build());
