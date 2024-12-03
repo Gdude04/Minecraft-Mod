@@ -22,6 +22,8 @@ public class ModItemGroups {
                             entries.add(ModItems.FASTER_COAL);
                             entries.add(ModItems.RUBY_STAFF);
                             entries.add(ModItems.TOMATO_SEEDS);
+                            entries.add(ModItems.CORN_SEEDS);
+                            entries.add(ModItems.CORN);
 
 
                             entries.add(ModItems.RUBY_PICKAXE);
