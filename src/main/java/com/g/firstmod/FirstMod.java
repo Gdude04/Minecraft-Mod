@@ -3,6 +3,7 @@ package com.g.firstmod;
 import com.g.firstmod.block.ModBlocks;
 import com.g.firstmod.item.ModItemGroups;
 import com.g.firstmod.item.ModItems;
+import com.g.firstmod.util.ModCustomTrades;
 import com.g.firstmod.util.ModLootTableModifiers;
 import net.fabricmc.api.ModInitializer;
 
@@ -22,6 +23,7 @@ public class FirstMod implements ModInitializer {
 		ModBlocks.registerModBlocks();
 
 		ModLootTableModifiers.modifyLootTables();
+		ModCustomTrades.registerCustomTrades();
 
 		FuelRegistry.INSTANCE.add(ModItems.FASTER_COAL, 3000);
 
