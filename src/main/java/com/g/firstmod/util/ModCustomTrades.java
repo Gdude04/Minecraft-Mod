@@ -1,6 +1,8 @@
 package com.g.firstmod.util;
 
+import com.g.firstmod.block.ModBlocks;
 import com.g.firstmod.item.ModItems;
+import com.g.firstmod.villager.ModVillagers;
 import net.fabricmc.fabric.api.object.builder.v1.trade.TradeOfferHelper;
 import net.minecraft.enchantment.EnchantmentLevelEntry;
 import net.minecraft.enchantment.Enchantments;
@@ -61,6 +63,24 @@ public class ModCustomTrades {
                     factories.add((entity, random) -> new TradeOffer(
                             new ItemStack(ModItems.CORN, 6),
                             new ItemStack(ModItems.RUBY, 1),
+                            15, 9,0.05f));
+
+                });
+
+        TradeOfferHelper.registerVillagerOffers(ModVillagers.SOUND_MASTER, 1,
+                factories -> {
+                    factories.add((entity, random) -> new TradeOffer(
+                            new ItemStack(ModItems.CORN, 6),
+                            new ItemStack(ModBlocks.SOUND_BLOCK, 1),
+                            15, 9,0.05f));
+
+                });
+
+        TradeOfferHelper.registerVillagerOffers(ModVillagers.SOUND_MASTER, 2,
+                factories -> {
+                    factories.add((entity, random) -> new TradeOffer(
+                            new ItemStack(ModItems.RAW_RUBY, 4),
+                            new ItemStack(ModItems.RUBY, 4),
                             15, 9,0.05f));
 
                 });
