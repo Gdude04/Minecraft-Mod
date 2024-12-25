@@ -49,5 +49,7 @@
 
   "tooltip.firstmod.metal_detector.tooltip": "Finds Valuables Underground",
 
+  "sounds.firstmod.metal_detector_found_ore": "Metal Detector Jingle",
+
   "itemgroup.ruby": "Ruby group"
 }

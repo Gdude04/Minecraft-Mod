@@ -3,6 +3,7 @@ package com.g.firstmod;
 import com.g.firstmod.block.ModBlocks;
 import com.g.firstmod.item.ModItemGroups;
 import com.g.firstmod.item.ModItems;
+import com.g.firstmod.sound.ModSounds;
 import com.g.firstmod.util.ModCustomTrades;
 import com.g.firstmod.util.ModLootTableModifiers;
 import com.g.firstmod.villager.ModVillagers;
@@ -27,6 +28,8 @@ public class FirstMod implements ModInitializer {
 		ModCustomTrades.registerCustomTrades();
 
 		ModVillagers.registerVillagers();
+
+		ModSounds.registerSounds();
 
 		FuelRegistry.INSTANCE.add(ModItems.FASTER_COAL, 3000);
 
