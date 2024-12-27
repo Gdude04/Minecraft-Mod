@@ -1,7 +1,7 @@
-// 1.20.1	2024-12-25T13:39:21.4440256	FirstMod/Tags for minecraft:block
+// 1.20.1	2024-12-27T14:15:57.245332	FirstMod/Tags for minecraft:block
 9c8fc31762937416dffe6f6bbfd1365c7748657d data\fabric\tags\blocks\needs_level_5.json
-16dab6eed05521e6be6e17158ce2fbe9e7ee5559 data\minecraft\tags\blocks\walls.json
 88413d62858444b72030cebced723a42c0a87c26 data\minecraft\tags\blocks\fences.json
+16dab6eed05521e6be6e17158ce2fbe9e7ee5559 data\minecraft\tags\blocks\walls.json
 524173b21599b73d08e7e0977b6c5495c7871299 data\minecraft\tags\blocks\needs_stone_tool.json
 923b56d69b5a201778382dab7efd6b8dba670918 data\minecraft\tags\blocks\needs_iron_tool.json
 ebcd02ef1c99673ae7153050c81cf902a0c51356 data\minecraft\tags\blocks\needs_diamond_tool.json

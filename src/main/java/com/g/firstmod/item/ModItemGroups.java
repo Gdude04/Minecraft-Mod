@@ -26,6 +26,8 @@ public class ModItemGroups {
                             entries.add(ModItems.CORN_SEEDS);
                             entries.add(ModItems.CORN);
 
+                            entries.add(ModItems.BAR_BRAWL_MUSIC_DISC);
+
 
 
                             entries.add(ModItems.RUBY_PICKAXE);

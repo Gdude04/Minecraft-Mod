@@ -38,6 +38,14 @@
     "sounds": [
       "firstmod:sound_block_fall"
     ]
+  },
+  "bar_brawl": {
+    "sounds": [
+      {
+        "name": "firstmod:bar_brawl",
+        "stream": true
+    }
+    ]
   }
 
 }
