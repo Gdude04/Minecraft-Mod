@@ -1,72 +1,71 @@
-[14:15:29] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.20.1 with Fabric Loader 0.16.9
-[14:15:29] [main/INFO] (FabricLoader) Loading 46 mods:
-	- fabric-api 0.92.2+1.20.1
-	- fabric-api-base 0.4.31+1802ada577
-	- fabric-api-lookup-api-v1 1.6.36+1802ada577
-	- fabric-biome-api-v1 13.0.13+1802ada577
-	- fabric-block-api-v1 1.0.11+1802ada577
-	- fabric-block-view-api-v2 1.0.1+1802ada577
-	- fabric-command-api-v1 1.2.34+f71b366f77
-	- fabric-command-api-v2 2.2.13+1802ada577
-	- fabric-commands-v0 0.2.51+df3654b377
-	- fabric-containers-v0 0.1.64+df3654b377
-	- fabric-content-registries-v0 4.0.11+1802ada577
-	- fabric-convention-tags-v1 1.5.5+1802ada577
-	- fabric-crash-report-info-v1 0.2.19+1802ada577
-	- fabric-data-attachment-api-v1 1.0.0+de0fd6d177
-	- fabric-data-generation-api-v1 12.3.4+1802ada577
-	- fabric-dimensions-v1 2.1.54+1802ada577
-	- fabric-entity-events-v1 1.6.0+1c78457f77
-	- fabric-events-interaction-v0 0.6.2+1802ada577
-	- fabric-events-lifecycle-v0 0.2.63+df3654b377
-	- fabric-game-rule-api-v1 1.0.40+1802ada577
-	- fabric-gametest-api-v1 1.2.13+1802ada577
-	- fabric-item-api-v1 2.1.28+1802ada577
-	- fabric-item-group-api-v1 4.0.12+1802ada577
-	- fabric-lifecycle-events-v1 2.2.22+1802ada577
-	- fabric-loot-api-v2 1.2.1+1802ada577
-	- fabric-loot-tables-v1 1.1.45+9e7660c677
-	- fabric-message-api-v1 5.1.9+1802ada577
-	- fabric-mining-level-api-v1 2.1.50+1802ada577
-	- fabric-networking-api-v1 1.3.11+1802ada577
-	- fabric-networking-v0 0.3.51+df3654b377
-	- fabric-object-builder-api-v1 11.1.3+1802ada577
-	- fabric-particles-v1 1.1.2+1802ada577
-	- fabric-recipe-api-v1 1.0.21+1802ada577
-	- fabric-registry-sync-v0 2.3.3+1802ada577
-	- fabric-rendering-data-attachment-v1 0.3.37+92a0d36777
-	- fabric-rendering-fluids-v1 3.0.28+1802ada577
-	- fabric-resource-conditions-api-v1 2.3.8+1802ada577
-	- fabric-resource-loader-v0 0.11.10+1802ada577
-	- fabric-screen-handler-api-v1 1.3.30+1802ada577
-	- fabric-transfer-api-v1 3.3.5+8dd72ea377
-	- fabric-transitive-access-wideners-v1 4.3.1+1802ada577
+[19:43:02] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.20.2 with Fabric Loader 0.16.9
+[19:43:03] [main/INFO] (FabricLoader) Loading 43 mods:
+	- fabric-api 0.91.6+1.20.2
+	- fabric-api-base 0.4.33+fce67b32a0
+	- fabric-api-lookup-api-v1 1.6.43+b1792f7da0
+	- fabric-biome-api-v1 13.0.14+b1792f7da0
+	- fabric-block-api-v1 1.0.12+73761d2ea0
+	- fabric-block-view-api-v2 1.0.1+73761d2ea0
+	- fabric-command-api-v1 1.2.37+f71b366fa0
+	- fabric-command-api-v2 2.2.16+b1792f7da0
+	- fabric-commands-v0 0.2.54+df3654b3a0
+	- fabric-containers-v0 0.1.81+df3654b3a0
+	- fabric-content-registries-v0 5.0.6+b1792f7da0
+	- fabric-convention-tags-v1 1.5.8+b1792f7da0
+	- fabric-crash-report-info-v1 0.2.20+f4b7e424a0
+	- fabric-data-generation-api-v1 13.1.11+b1792f7da0
+	- fabric-dimensions-v1 2.1.57+b1792f7da0
+	- fabric-entity-events-v1 1.5.26+b1792f7da0
+	- fabric-events-interaction-v0 0.6.10+b1792f7da0
+	- fabric-events-lifecycle-v0 0.2.70+df3654b3a0
+	- fabric-game-rule-api-v1 1.0.42+a44e16a6a0
+	- fabric-gametest-api-v1 1.2.16+b1792f7da0
+	- fabric-item-api-v1 2.1.33+b1792f7da0
+	- fabric-item-group-api-v1 4.0.15+e3d2bf3fa0
+	- fabric-lifecycle-events-v1 2.2.28+c8b10480a0
+	- fabric-loot-api-v2 2.1.1+3ba460fba0
+	- fabric-message-api-v1 6.0.2+e3d2bf3fa0
+	- fabric-mining-level-api-v1 2.1.56+f4b7e424a0
+	- fabric-networking-api-v1 3.1.5+f4be560ba0
+	- fabric-object-builder-api-v1 12.1.2+2ff98d3ba0
+	- fabric-particles-v1 1.1.4+f4b7e424a0
+	- fabric-recipe-api-v1 2.0.14+52b3ebe5a0
+	- fabric-registry-sync-v0 4.0.12+b1792f7da0
+	- fabric-rendering-data-attachment-v1 0.3.39+73761d2ea0
+	- fabric-rendering-fluids-v1 3.0.30+f4b7e424a0
+	- fabric-resource-conditions-api-v1 2.3.11+239dafd8a0
+	- fabric-resource-loader-v0 0.11.12+b1792f7da0
+	- fabric-screen-handler-api-v1 1.3.47+b1792f7da0
+	- fabric-transfer-api-v1 3.3.13+4944b5a5a0
+	- fabric-transitive-access-wideners-v1 5.0.3+fce67b32a0
 	- fabricloader 0.16.9
 	- firstmod 0.1-1.20.1
 	- java 21
-	- minecraft 1.20.1
+	- minecraft 1.20.2
 	- mixinextras 0.4.1
-[14:15:30] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/garvi/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/6a12aacc794f1078458433116e9ed42c1cc98096/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[14:15:31] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[14:15:31] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
-[14:15:32] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[14:15:55] [main/INFO] (firstmod) Registering Item Groups for firstmod
-[14:15:55] [main/INFO] (firstmod) Registering Mod Items for firstmod
-[14:15:55] [main/INFO] (firstmod) Registering ModBlocks for firstmod
-[14:15:55] [main/INFO] (firstmod) Registering Villagersfirstmod
-[14:15:55] [main/INFO] (firstmod) Registering Sounds forfirstmod
-[14:15:55] [main/INFO] (FabricDataGenHelper) Running data generator for firstmod
-[14:15:56] [main/INFO] (Minecraft) Starting provider: FirstMod/Tags for minecraft:block
-[14:15:56] [main/INFO] (Minecraft) FirstMod/Tags for minecraft:block finished after 620 ms
-[14:15:56] [main/INFO] (Minecraft) Starting provider: FirstMod/Tags for minecraft:item
-[14:15:56] [main/INFO] (Minecraft) FirstMod/Tags for minecraft:item finished after 13 ms
-[14:15:56] [main/INFO] (Minecraft) Starting provider: FirstMod/Block Loot Tables
-[14:15:56] [main/INFO] (Minecraft) FirstMod/Block Loot Tables finished after 142 ms
-[14:15:56] [main/INFO] (Minecraft) Starting provider: FirstMod/Model Definitions
-[14:15:57] [main/INFO] (Minecraft) FirstMod/Model Definitions finished after 262 ms
-[14:15:57] [main/INFO] (Minecraft) Starting provider: FirstMod/Recipes
-[14:15:57] [main/INFO] (Minecraft) FirstMod/Recipes finished after 86 ms
-[14:15:57] [main/INFO] (Minecraft) Starting provider: FirstMod/Tags for minecraft:point_of_interest_type
-[14:15:57] [main/INFO] (Minecraft) FirstMod/Tags for minecraft:point_of_interest_type finished after 4 ms
-[14:15:57] [main/INFO] (Minecraft) All providers took: 1137 ms
-[14:15:57] [main/INFO] (Minecraft) Caching: total files: 211, old count: 208, new count: 212, removed stale: 0, written: 3
+[19:43:04] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/garvi/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/6a12aacc794f1078458433116e9ed42c1cc98096/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:43:05] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[19:43:05] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_16
+[19:43:05] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
+[19:43:07] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[19:43:30] [main/INFO] (firstmod) Registering Item Groups for firstmod
+[19:43:30] [main/INFO] (firstmod) Registering Mod Items for firstmod
+[19:43:30] [main/INFO] (firstmod) Registering ModBlocks for firstmod
+[19:43:30] [main/INFO] (firstmod) Registering Villagersfirstmod
+[19:43:30] [main/INFO] (firstmod) Registering Sounds forfirstmod
+[19:43:31] [main/INFO] (fabric-networking-api-v1) Force Packet Serialization is enabled to mimic remote connection on single player, this is the default behaviour on dev env. Add -Dfabric-api.networking.force-packet-serialization=false JVM arg to disable it.
+[19:43:31] [main/INFO] (FabricDataGenHelper) Running data generator for firstmod
+[19:43:32] [main/INFO] (Minecraft) Starting provider: FirstMod/Tags for minecraft:block
+[19:43:33] [main/INFO] (Minecraft) FirstMod/Tags for minecraft:block finished after 870 ms
+[19:43:33] [main/INFO] (Minecraft) Starting provider: FirstMod/Tags for minecraft:item
+[19:43:33] [main/INFO] (Minecraft) FirstMod/Tags for minecraft:item finished after 17 ms
+[19:43:33] [main/INFO] (Minecraft) Starting provider: FirstMod/Block Loot Tables
+[19:43:33] [main/INFO] (Minecraft) FirstMod/Block Loot Tables finished after 159 ms
+[19:43:33] [main/INFO] (Minecraft) Starting provider: FirstMod/Model Definitions
+[19:43:33] [main/INFO] (Minecraft) FirstMod/Model Definitions finished after 354 ms
+[19:43:33] [main/INFO] (Minecraft) Starting provider: FirstMod/Recipes
+[19:43:33] [main/INFO] (Minecraft) FirstMod/Recipes finished after 170 ms
+[19:43:33] [main/INFO] (Minecraft) Starting provider: FirstMod/Tags for minecraft:point_of_interest_type
+[19:43:33] [main/INFO] (Minecraft) FirstMod/Tags for minecraft:point_of_interest_type finished after 4 ms
+[19:43:33] [main/INFO] (Minecraft) All providers took: 1584 ms
+[19:43:33] [main/INFO] (Minecraft) Caching: total files: 212, old count: 211, new count: 213, removed stale: 0, written: 14

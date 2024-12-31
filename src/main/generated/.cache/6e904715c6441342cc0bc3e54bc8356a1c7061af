@@ -1,5 +1,6 @@
-// 1.20.1	2024-12-27T14:15:57.2513312	FirstMod/Model Definitions
+// 1.20.2	2024-12-30T19:43:33.8794821	FirstMod/Model Definitions
 60ebf88b96d58acc3c9341d3dab0979808dd9750 assets\firstmod\models\item\ruby_chestplate_lapis_trim.json
+63ec6c618a3a23eab4cab9c52d7d3250de9b516e assets\firstmod\models\item\porcupine_spawn_egg.json
 b88c9ebebc3ff71b85c8f4b53e3b83f8422464bd assets\firstmod\models\item\ruby_helmet.json
 e40f6137c69ce8a2c3ad5c7930f03bef364812c3 assets\firstmod\models\block\tomato_crop_stage4.json
 16797c10411581b8137f336d8e6303bedde9481b assets\firstmod\blockstates\dahlia.json
@@ -30,8 +31,8 @@ e8b6c62029ae7288847c7d3e2ec17a0e702bc40a assets\firstmod\models\block\corn_crop_
 5bd9750b66c8a46ccf9d75bde593a333b02745ad assets\firstmod\blockstates\ruby_pressure_plate.json
 727e7785eb1c354fcfb71e6dcf43918a49c58628 assets\firstmod\models\block\ruby_button.json
 d44abdfac3444f7042b61aa1710294979beb144c assets\firstmod\models\item\ruby_chestplate_gold_trim.json
-c3416562ee3bd0f2d1aca1b2e04a27e5a9384706 assets\firstmod\models\item\ruby_button.json
 13f856455c9786b299ef48c0ff747176687089ce assets\firstmod\models\block\ruby_stairs_inner.json
+c3416562ee3bd0f2d1aca1b2e04a27e5a9384706 assets\firstmod\models\item\ruby_button.json
 65d3480ad24aedf11b7376e654375e282230908e assets\firstmod\models\item\ruby_pickaxe.json
 824cd708bff521fd00a708e16d91d56288a51ab4 assets\firstmod\models\block\tomato_crop_stage5.json
 c56ac17ccd7fc983d7179c102e7a2f2b4e947374 assets\firstmod\models\block\potted_dahlia.json
@@ -88,8 +89,8 @@ bc594ce004d988706d67bfd851f4abee57d43d5c assets\firstmod\models\block\ruby_door_
 fcea919199d8db289d85355581cfc10c0da74832 assets\firstmod\models\block\ruby_button_pressed.json
 a5c6beb02f2061c7268ebf538620042bbf255697 assets\firstmod\models\item\metal_detector.json
 7497c272a10116a11dfda51f15156d0a7bb69e27 assets\firstmod\models\item\deepslate_ruby_ore.json
-6978278a0e320317d3b054d33047e6679dbe82da assets\firstmod\models\item\ruby_trapdoor.json
 e08ab9aa8132887117cb711a28b51a3f64bf8a55 assets\firstmod\models\item\ruby_chestplate.json
+6978278a0e320317d3b054d33047e6679dbe82da assets\firstmod\models\item\ruby_trapdoor.json
 942f6f52de1c0fd25b2ff61103612cc44ea99bf3 assets\firstmod\models\item\ruby_fence_gate.json
 f48546a477f874b0bfec57c90f9f8ddd967602a8 assets\firstmod\models\block\ruby_trapdoor_open.json
 80c9279433e3b924c4a2782cf60baa85f31aab38 assets\firstmod\models\item\ruby_chestplate_quartz_trim.json
@@ -143,8 +144,8 @@ afe73edb021932e8d0bc9c02ab604dcc317129dd assets\firstmod\models\block\end_stone_
 fe8c07ac2a89b02cbf16d1bbd8cd76ada2ab644f assets\firstmod\models\block\nether_ruby_ore.json
 9dc555e8e2d91174021330fbc6fc8494df34799d assets\firstmod\models\block\ruby_door_bottom_left.json
 d72c9fa942bd840523ed1414b0deba5da1c5b934 assets\firstmod\models\block\ruby_pressure_plate_down.json
-7bdb632b836551d73389c613633537efce008136 assets\firstmod\models\item\ruby_block.json
 7b06ba0b53123bde96106e8aa2f4c5b20acd5fca assets\firstmod\models\block\tomato_crop_stage1.json
+7bdb632b836551d73389c613633537efce008136 assets\firstmod\models\item\ruby_block.json
 6a2a8166a5b9cd1c8f3facd04f9a8e044d7ce621 assets\firstmod\models\block\ruby_slab_top.json
 738da0b40465accd1ec5f7141c979046af3bba39 assets\firstmod\models\item\corn.json
 e3d91a50cc09a0d0f640757849b605f399d51982 assets\firstmod\models\item\ruby_hoe.json
